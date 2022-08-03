@@ -7,6 +7,9 @@ Projeto para o Módulo VI - Back-end: Criando API com Node.js do bootcamp Impuls
 - [Overview](#overview)
   - [O Desafio](#o-desafio)
   - [Screenshots](#screenshots)
+  - [Enviando dados](#enviando-dados)
+  - [Apagando dados](#apagando-dados)
+  - [Atualizando dados](#atualizando-dados)
   - [Esse projeto não é](#esse-projeto-não-é)
   - [Detalhes](#detalhes)
 - [Meu processo](#meu-processo)
@@ -26,13 +29,13 @@ Construção de uma simples API com Express e TypeORM para consumo com React. Fu
 
 ### Screenshots
 
-##Enviando dados:
+### Enviando dados
 ![](./making-comment.gif)
 
-##Atualizando:
+### Atualizando dados
 ![](./update-comment.gif)
 
-##Deletando:
+### Deletando dados
 ![](./delete-comment.gif)
 
 ### Esse projeto não é
