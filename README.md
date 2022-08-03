@@ -26,13 +26,13 @@ Construção de uma simples API com Express e TypeORM para consumo com React. Fu
 
 ### Screenshots
 
-#Enviando dados:
+##Enviando dados:
 ![](./making-comment.gif)
 
-#Atulizando:
+##Atualizando:
 ![](./update-comment.gif)
 
-#Deletando:
+##Deletando:
 ![](./delete-comment.gif)
 
 ### Esse projeto não é
